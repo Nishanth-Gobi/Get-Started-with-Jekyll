@@ -102,6 +102,13 @@ In case of Minima, your Jekyll site's directory structure would be,
 You can easily choose from a list of [themes](https://jekyllrb.com/docs/themes/#pick-up-a-theme) 
 
 ---
+## Hosting your blog
+
+GitHub pages is a free website hosting service offered by GitHub and the good news is that GitHub pages supports Jekyll! And that means you can have your blog up and running for free! 
+
+Refer to [GitHub pages](https://pages.github.com/) for details on how to host your website.
+
+---
 # And you just built your blog!!! 
 ---
 
